@@ -1,3 +1,6 @@
+#Work in progress. 
+Check back for updated Flask app.py!
+
 # sqlalchemy-challenge
 The climate_starter create an Alchemy session and querry's data from the measurements and stations data found in resources.
 I analyzed the data to find percipatiation over time and frequency of temperatures for our most popular station.
@@ -6,5 +9,3 @@ I analyzed the data to find percipatiation over time and frequency of temperatur
 
 
 
-Work in progress. 
-Check back for updated Flask app.py!
